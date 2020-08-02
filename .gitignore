@@ -1,0 +1,5 @@
+# Virtual environment files
+text-generation-with-an-rnn-venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
